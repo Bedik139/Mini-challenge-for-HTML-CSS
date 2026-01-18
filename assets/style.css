@@ -9,7 +9,6 @@ body{
     font: 17px Times;
 }
 
-
 .Nameheader{
     margin: 0 0 17px 0;
     padding: 0 0 17px 0;
@@ -30,7 +29,7 @@ body{
     border-bottom: 1px dotted #999;
 }
 
-.emailMouse-Over{
+.emailMouse-Over:hover{
     border-bottom-style: solid;
     color: blue;
 }
@@ -43,7 +42,7 @@ body{
     color: #666;
 }
 
-image{
+img{
     height: 303px;
     width: 293;
     float: right;
@@ -78,14 +77,14 @@ image{
     bottom: 0;
     right: 0;
     font-style: italic;
-    font: Arial;
+    font-family: Arial;
     font-size: 16px;
     color: #998;
     font-weight: normal;
 }
 
 .content ul{
-    margin: 0 0 20px 0;
+    margin: 0 0 20px 17px;
 }
 
 
