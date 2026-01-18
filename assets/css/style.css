@@ -87,3 +87,6 @@ img{
 }
 
 
+.clearfix {
+    clear: both;
+}
