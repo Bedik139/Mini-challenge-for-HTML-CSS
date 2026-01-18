@@ -9,7 +9,7 @@ body{
     font: 17px Times;
 }
 
-.Nameheader{
+h1{
     margin: 0 0 17px 0;
     padding: 0 0 17px 0;
     font-size: 43px;
@@ -19,17 +19,17 @@ body{
 
 }
 
-.contactInfo{
+.contact-info{
     margin: 0 0 16px 0;
 }
 
-.emailLink{
+.email-link{
     color:rgb(115, 113, 113);
     text-decoration: none;
     border-bottom: 1px dotted #999;
 }
 
-.emailMouse-Over:hover{
+.email-link:hover{
     border-bottom-style: solid;
     color: blue;
 }
@@ -44,7 +44,7 @@ body{
 
 img{
     height: 303px;
-    width: 293;
+    width: 293px;
     float: right;
     margin: -30px 0 0 0;
 }
